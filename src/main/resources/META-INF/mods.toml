@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[47,]" 
+license="MIT"
+
+[[mods]]
+modId="meumod"
+version="1.0.0"
+displayName="Meu Mod"
+description='''
+Este é o meu primeiro mod!
+'''
+
+
+

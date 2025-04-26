@@ -1,0 +1,63 @@
+# Arquivos do Gradle
+.gradle/
+build/
+out/
+bin/
+classes/
+
+# Arquivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# Arquivos do Minecraft
+run/
+eclipse/
+gradle.properties
+
+# Logs e relatórios
+logs/
+*.log
+*.log.*
+crash-reports/
+debug.log
+latest.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.bak
+*.tmp
+*.swp
+*~
+~$*
+
+# Arquivos de usuário
+/userdev/
+/.metadata/
+
+# Arquivos de cache do Forge
+forge-*.jar
+mcp-*.zip
+fernflower-*.jar
+libraries/
+versions/
+
+# Arquivos de configuração local
+local.properties
+gradle-local.properties
+
+# Arquivos de dependências
+/dependencies/
+/libs/
+
+# Arquivos gerados automaticamente
+.generated/
+generated/
