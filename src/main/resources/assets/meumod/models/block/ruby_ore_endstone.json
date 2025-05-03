@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "meumod:block/ruby_ore"
+        "all": "meumod:block/ruby_ore_endstone"
     }
 }

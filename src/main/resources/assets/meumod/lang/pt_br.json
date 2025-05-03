@@ -1,0 +1,18 @@
+{
+  "itemGroup.meumod": "Meu Mod de Rubi",
+
+  "block.meumod.ruby_ore_stone": "Minério de Rubi",
+  "block.meumod.ruby_ore_endstone": "Minério de Rubi do End",
+  "block.meumod.ruby_ore_deepslate": "Minério de Rubi de Ardósia",
+  "block.meumod.ruby_ore_netherrack": "Minério de Rubi do Nether",
+
+  "item.meumod.ruby_ore_stone": "Minério de Rubi",
+  "item.meumod.ruby_ore_endstone": "Minério de Rubi do End",
+  "item.meumod.ruby_ore_deepslate": "Minério de Rubi de Ardósia",
+  "item.meumod.ruby_ore_netherrack": "Minério de Rubi do Nether",
+
+  "item.meumod.ruby_ore_stone.desc": "§7Encontrado em cavernas profundas",
+  "item.meumod.ruby_ore_endstone.desc": "§5Raro no End",
+  "item.meumod.ruby_ore_deepslate.desc": "§8Resistente como a ardósia",
+  "item.meumod.ruby_ore_netherrack.desc": "§4Cintila no Nether"
+}

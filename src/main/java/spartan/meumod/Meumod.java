@@ -3,7 +3,13 @@ package spartan.meumod;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
-import spartan.meumod.blocks.RubyOre;
+import net.minecraft.core.registries.Registries;
+import net.minecraft.network.chat.Component;
+import net.minecraft.world.item.*;
+import spartan.meumod.blocks.RubyOreEndStone;
+import spartan.meumod.blocks.RubyOreDeepSlate;
+import spartan.meumod.blocks.RubyOreNetherrack;
+import spartan.meumod.blocks.RubyOreStone;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Items;

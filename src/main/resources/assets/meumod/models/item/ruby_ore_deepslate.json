@@ -1,0 +1,7 @@
+{
+    
+    "parent": "meumod:block/ruby_ore_deepslate",
+    "textures": {
+        "all": "meumod:block/ruby_ore_deepslate"
+    }
+    }
